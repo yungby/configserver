@@ -1,7 +1,1 @@
-spring:
-  application:
-      name: demo
-  profiles:
-      active: dev
-  server:
-    port: 5589
+name：zhaoayang
