@@ -1,5 +1,0 @@
-name：zhaoayang
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/ #配置服务注册中心
