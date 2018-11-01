@@ -1,9 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://admin:123456@localhost:8761/eureka/ #配置服务注册中心
-zuul:
-  routes:
-    config-client:
-      path: /config-client/**
-      serviceId: config-client
