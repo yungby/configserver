@@ -1,4 +1,4 @@
-name: zhaoyang
+name: zhaoyang1
 eureka:
   client:
     serviceUrl:
